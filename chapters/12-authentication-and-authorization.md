@@ -4,7 +4,7 @@
 
 | Previous | Notes index | Next |
 | --- | --- | --- |
-| [Previous: Validation, security, and CORS](./11-validation-security-and-cors.md) | [Notes index](../README.md) | [Next: Background tasks and application lifespan](./13-background-work-and-application-lifespan.md) |
+| [Previous: Validation, security, and CORS](./11-validation-security-and-cors.md) | [Notes index](../README.md) | [Next: Background tasks and application lifespan](./13-background-tasks-and-lifespan.md) |
 
 ## Authentication and authorization answer different questions
 
